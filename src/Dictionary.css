@@ -1,9 +1,11 @@
 .Dictionary section {
-  background-color: azure;
+  background-color: rgb(200, 191, 249);
   padding: 30px;
   border-radius: 8px;
   margin: 20px 0;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  color: black;
+  margin-top: 40px;
 }
 .Dictionary input {
   width: 100%;
