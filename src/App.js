@@ -9,7 +9,16 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="starlight" />
         </main>
-        <footer className="app-footer">Coded by Tara Walker</footer>
+        <footer className="app-footer">
+          Coded by Tara Walker &{" "}
+          <a
+            href="https://github.com/TaraWalk/dictionary-project"
+            rel="noreferrer"
+            target="_blank"
+          >
+            open-sourced on github
+          </a>
+        </footer>
       </div>
     </div>
   );
